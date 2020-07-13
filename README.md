@@ -1,7 +1,6 @@
 Desafio BrasilPrev.
 
 
-
 Olá !
 estou usando Varias estruturas, para mostrar algumas das minhas habilidades em diversas linguagem em programação;
 
@@ -18,4 +17,8 @@ estou usando Varias estruturas, para mostrar algumas das minhas habilidades em d
 Neste link, está uma versão compilado em ANDROID para a avaliação;
 http://webs.mylocals.info/entrevista/brasilprev.apk 
 
+
+Contato:
+Adryanno Majoros
+adryanno.majoros@gmail.com
 
