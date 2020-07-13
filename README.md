@@ -1,5 +1,9 @@
+Desafio BrasilPrev.
+
+
+
 Olá !
-estou usando Varias estruturas em programação, para mostrar algumas das minhas habilidades em diversas linguagem em programação;
+estou usando Varias estruturas, para mostrar algumas das minhas habilidades em diversas linguagem em programação;
 
 - PHP
 - PYTHON
@@ -13,4 +17,5 @@ estou usando Varias estruturas em programação, para mostrar algumas das minhas
 
 Neste link, está uma versão compilado em ANDROID para a avaliação;
 http://webs.mylocals.info/entrevista/brasilprev.apk 
+
 
